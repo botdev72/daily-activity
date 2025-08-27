@@ -1,1 +1,1 @@
-{"buildCommand":"npm run build","outputDirectory":"dist","framework":"vite"}
+{"buildCommand":"unzip daily-checklist.zip && cd daily-checklist && npm run build","outputDirectory":"dist","framework":"vite"}
