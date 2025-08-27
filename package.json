@@ -1,4 +1,10 @@
 {
+  "scripts": {
+    "build": "[daily-checklist] build --output public"
+  }
+}
+
+{
   "name": "daily-checklist",
   "private": true,
   "version": "1.0.0",
